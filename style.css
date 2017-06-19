@@ -1,0 +1,138 @@
+body{
+    background-color: midnightblue;
+    width: 970px;
+    color: white;
+}
+
+header{
+    height: 50px;
+    width: 970px;
+    margin-top: 5px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+header span{
+    color: grey;
+}
+
+#header-left{
+    display: inline-block;
+    margin-right: 10px;
+    width: 200px;
+    font-size: 30px;
+    vertical-align: text-top;
+}
+
+#header-right{
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+}
+
+header img{
+    padding-left: 650px;
+    vertical-align: top;
+}
+
+nav table{
+    border: 0.1px solid grey;
+    border-width: 1px;
+}
+
+nav td{
+    Margin: 5px 20px;
+    padding: 5px 20px;
+    border: 0.1px solid grey;
+    border-width: 1px;
+}
+
+nav hr{
+    border: 0 none solid grey;
+    background-color: teal;
+    height: 20px;
+    width: 900px;
+    text-align: left;
+    margin: 0px;
+}
+
+td a{
+    color: grey;border: 0.1px solid grey;
+    border-width: 1px;
+}
+
+aside{
+    width: 200px;
+    display: inline-block;
+}
+
+aside button{
+    background-color: orange;
+}
+
+aside a{
+    color: yellow;
+}
+
+#article-2{
+    border: 2px solid grey;
+    border-width: 1px;
+    margin: 5px 0px;
+}
+
+#article-3{
+    border: 1px solid grey;
+    border-width: 1px;
+    margin: 5px 0px;
+}
+
+#article-5{
+    border: 1px solid grey;
+    border-width: 1px;
+    margin: 5px 0px;
+}
+main-content{
+    border-radius: 15px;
+    background-color: teal;
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px 10px;
+    padding: 20px;
+}
+
+article-1{
+    width:440px;
+    display: inline-block;
+}
+
+span{
+    color: yellow;
+}
+
+side-content{
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 0px;
+}
+
+#article-6{
+    width: 190px;
+    border: 1px solid grey;
+    border-width: 1px;
+    margin: 5px 0px;
+}
+
+#article-7{
+    border: 1px solid grey;
+    border-width: 1px;
+    margin: 5px 0px;
+}
+
+footer hr{
+    border-color: grey;
+    height: 40px;
+    width: 900px;
+    margin: 0px;
+    background-color: grey;
+}
